@@ -953,4 +953,76 @@ ideologies = [
             "scty": 80
         }
     },
+    {
+        "name": "De Leonism",
+        "stats": {
+            "econ": 90,
+            "dipl": 30,
+            "govt": 50,
+            "scty": 60
+        }
+    },
+    {
+        "name": "State Capitalism",
+        "stats": {
+            "econ": 30,
+            "dipl": 30,
+            "govt": 20,
+            "scty": 50
+        }
+    },
+    {
+        "name": "State Socialism",
+        "stats": {
+            "econ": 80,
+            "dipl": 30,
+            "govt": 20,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Populism",
+        "stats": {
+            "econ": 50,
+            "dipl": 40,
+            "govt": 40,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Left-Wing Populism",
+        "stats": {
+            "econ": 70,
+            "dipl": 40,
+            "govt": 40,
+            "scty": 70
+        }
+    },
+    {
+        "name": "Right-Wing Populism",
+        "stats": {
+            "econ": 30,
+            "dipl": 40,
+            "govt": 40,
+            "scty": 30
+        }
+    },
+    {
+        "name": "Imperialism",
+        "stats": {
+            "econ": 30,
+            "dipl": 90,
+            "govt": 20,
+            "scty": 20
+        }
+    },
+    {
+        "name": "Autocracy",
+        "stats": {
+            "econ": 50,
+            "dipl": 20,
+            "govt": 10,
+            "scty": 50
+        }
+    },
 ];
